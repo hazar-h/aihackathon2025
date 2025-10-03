@@ -1,0 +1,2 @@
+OPENAI_API_KEY=03c10086-060d-46bd-9781-cda159b508db
+OPENAI_BASE_URL=https://openai.proxy.com/v1
