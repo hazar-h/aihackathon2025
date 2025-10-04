@@ -10,3 +10,5 @@ resp = client.chat.completions.create(
     ],
     max_tokens=150                  # cap output size to control cost
 )
+
+print(resp.choices[0].message.content)
