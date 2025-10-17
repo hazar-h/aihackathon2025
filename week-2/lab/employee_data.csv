@@ -1,0 +1,101 @@
+employee_id,name,department,salary,performance,hire_date
+EMP000,,Unknown,,,2020-01-24
+EMP001,Eva Brown 1,Marketing,69256.0,Good,2020-11-24
+EMP002,Ivy Chen 2,Engineering,117397.0,Poor,2020-01-03
+EMP003,David Wilson 3,Marketing,106237.0,Excellent,2021-12-21
+EMP004,Ivy Chen 4,HR,68893.0,Poor,2022-01-25
+EMP005,Carol Davis 5,Operations,95392.0,Average,2022-03-07
+EMP006,Frank Miller 6,Engineering,52156.0,Poor,2020-06-28
+EMP007,,Sales,119131.0,Average,2020-12-15
+EMP008,Ivy Chen 8,Engineering,89615.0,Excellent,2022-11-20
+EMP009,Frank Miller 9,Finance,65203.0,Excellent,2020-11-08
+EMP010,Eva Brown 10,Engineering,70512.0,Excellent,2023-05-15
+EMP011,Frank Miller 11,Unknown,61319.0,Average,2022-04-22
+EMP012,Eva Brown 12,Operations,49358.0,Good,2021-03-15
+EMP013,Grace Lee 13,Sales,,Good,2022-01-08
+EMP014,,Engineering,81347.0,Poor,2022-02-07
+EMP015,Jack Anderson 15,Operations,81245.0,Good,2023-07-21
+EMP016,Henry Taylor 16,Marketing,74718.0,Good,2021-12-18
+EMP017,Ivy Chen 17,Sales,116622.0,,2023-10-13
+EMP018,Frank Miller 18,Marketing,58131.0,Poor,2020-01-28
+EMP019,Bob Smith 19,Marketing,60969.0,Poor,2020-07-13
+EMP020,Jack Anderson 20,HR,109352.0,Average,2020-11-24
+EMP021,,Engineering,110381.0,Average,2022-02-10
+EMP022,Grace Lee 22,Unknown,60730.0,Poor,2020-12-24
+EMP023,Eva Brown 23,Finance,63416.0,Excellent,2022-11-17
+EMP024,Jack Anderson 24,Marketing,60032.0,Average,2021-09-25
+EMP025,Ivy Chen 25,Engineering,118504.0,Average,2023-01-04
+EMP026,Frank Miller 26,Sales,,Good,2020-04-19
+EMP027,Bob Smith 27,Engineering,103699.0,Excellent,2021-03-22
+EMP028,,HR,112063.0,Good,2022-09-28
+EMP029,Jack Anderson 29,HR,67760.0,Good,2022-07-22
+EMP030,Frank Miller 30,HR,107839.0,Poor,2020-04-08
+EMP031,Bob Smith 31,Sales,42757.0,Good,2021-01-03
+EMP032,Alice Johnson 32,Marketing,48834.0,Excellent,2022-02-17
+EMP033,David Wilson 33,Unknown,76500.0,Poor,2021-09-05
+EMP034,Jack Anderson 34,Finance,101953.0,,2021-08-26
+EMP035,,HR,64957.0,Excellent,2020-11-14
+EMP036,Frank Miller 36,HR,93883.0,Poor,2020-11-21
+EMP037,Bob Smith 37,Engineering,92772.0,Average,2020-04-07
+EMP038,David Wilson 38,Finance,98800.0,Good,2023-03-09
+EMP039,Henry Taylor 39,Marketing,,Excellent,2023-09-04
+EMP040,Alice Johnson 40,Operations,110855.0,Excellent,2020-04-06
+EMP041,Grace Lee 41,HR,103092.0,Good,2023-01-06
+EMP042,,HR,40282.0,Poor,2022-08-10
+EMP043,Grace Lee 43,Operations,112845.0,Poor,2021-04-10
+EMP044,David Wilson 44,Unknown,47665.0,Excellent,2022-01-02
+EMP045,Jack Anderson 45,HR,105909.0,Good,2020-09-03
+EMP046,Carol Davis 46,Engineering,117992.0,Excellent,2021-07-04
+EMP047,Jack Anderson 47,Marketing,115880.0,Excellent,2020-07-22
+EMP048,Jack Anderson 48,Finance,108522.0,Average,2022-04-22
+EMP049,,Operations,81180.0,Good,2022-07-05
+EMP050,Eva Brown 50,HR,81441.0,Excellent,2020-08-20
+EMP051,Jack Anderson 51,Engineering,49602.0,,2021-09-09
+EMP052,Carol Davis 52,Sales,,Excellent,2021-06-10
+EMP053,Carol Davis 53,HR,111200.0,Average,2020-11-27
+EMP054,Ivy Chen 54,Sales,53577.0,Good,2022-02-04
+EMP055,Ivy Chen 55,Unknown,60374.0,Average,2022-10-07
+EMP056,,Operations,84942.0,Good,2022-09-16
+EMP057,Eva Brown 57,Engineering,52097.0,Poor,2022-01-01
+EMP058,Frank Miller 58,Marketing,74335.0,Good,2023-09-23
+EMP059,Grace Lee 59,Finance,41267.0,Excellent,2020-12-05
+EMP060,Ivy Chen 60,Engineering,88393.0,Good,2023-03-02
+EMP061,Eva Brown 61,Sales,45229.0,Average,2021-11-08
+EMP062,Bob Smith 62,Sales,113385.0,Poor,2021-04-28
+EMP063,,Marketing,63206.0,Poor,2020-03-24
+EMP064,Frank Miller 64,HR,72527.0,Average,2021-12-04
+EMP065,Grace Lee 65,Engineering,,Poor,2021-04-27
+EMP066,Henry Taylor 66,Unknown,85830.0,Average,2021-04-01
+EMP067,David Wilson 67,HR,83025.0,Average,2020-05-12
+EMP068,Ivy Chen 68,HR,110282.0,,2022-01-04
+EMP069,Eva Brown 69,Marketing,116099.0,Average,2020-02-20
+EMP070,,HR,85309.0,Average,2023-10-17
+EMP071,Bob Smith 71,HR,115574.0,Good,2022-01-23
+EMP072,Grace Lee 72,Engineering,108146.0,Good,2022-07-03
+EMP073,Frank Miller 73,Finance,81145.0,Excellent,2022-09-10
+EMP074,Grace Lee 74,Sales,92743.0,Average,2021-04-14
+EMP075,Grace Lee 75,Operations,62810.0,Average,2023-09-27
+EMP076,Alice Johnson 76,Sales,77606.0,Good,2023-10-20
+EMP077,,Unknown,82237.0,Poor,2023-08-22
+EMP078,David Wilson 78,Finance,,Poor,2021-11-03
+EMP079,Eva Brown 79,Finance,83933.0,Excellent,2021-11-10
+EMP080,David Wilson 80,Marketing,59313.0,Excellent,2020-04-16
+EMP081,Jack Anderson 81,Engineering,99692.0,Poor,2021-12-23
+EMP082,Grace Lee 82,HR,92383.0,Good,2021-11-23
+EMP083,Alice Johnson 83,Engineering,95724.0,Good,2021-12-17
+EMP084,,HR,46582.0,Good,2020-08-05
+EMP085,Henry Taylor 85,Operations,109616.0,,2022-08-20
+EMP086,Ivy Chen 86,HR,111810.0,Poor,2021-12-28
+EMP087,Henry Taylor 87,HR,73972.0,Good,2022-09-16
+EMP088,David Wilson 88,Unknown,75992.0,Poor,2020-12-10
+EMP089,David Wilson 89,Sales,84020.0,Average,2020-03-05
+EMP090,David Wilson 90,HR,60028.0,Good,2020-07-14
+EMP091,,Sales,,Poor,2023-01-07
+EMP092,Grace Lee 92,HR,116556.0,Excellent,2023-08-01
+EMP093,Frank Miller 93,Sales,91116.0,Poor,2021-08-08
+EMP094,Eva Brown 94,HR,103654.0,Excellent,2023-06-22
+EMP095,Grace Lee 95,Operations,61632.0,Poor,2021-10-18
+EMP096,Alice Johnson 96,HR,117580.0,Excellent,2020-11-14
+EMP097,Carol Davis 97,HR,63819.0,Excellent,2022-07-11
+EMP098,,Marketing,99598.0,Average,2022-07-09
+EMP099,Grace Lee 99,Unknown,73065.0,Excellent,2023-01-24
