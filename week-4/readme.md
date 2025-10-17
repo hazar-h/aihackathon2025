@@ -110,4 +110,6 @@ This architecture ensures your AI solutions are:
 - [LangGraph Docs](https://langchain-ai.github.io/langgraph/)
 - [LangSmith Platform](https://smith.langchain.com/)
 - [ByteByteGo System Design 101](https://github.com/ByteByteGoHq/system-design-101)
+- [8 Moar Important System Design Concepts](https://www.youtube.com/watch?v=BTjxUS_PylA)
+- [Multi Agent Systems](https://medium.com/@princekrampah/multi-agent-architecture-in-multi-agent-systems-multi-agent-system-design-patterns-langgraph-b92e934bf843)
 
