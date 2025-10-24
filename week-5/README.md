@@ -169,7 +169,7 @@ MCP complements LangChain — you can **use MCP servers as tools within LangChai
 ---
 
 ## 10. Resources & References
-
+* [ByteByteGo Video](https://youtu.be/_d0duu3dED4?si=jNTDhcuL1-PnCvdo)
 * 📘 **Official Docs:** [https://modelcontextprotocol.io/docs/getting-started/intro](https://modelcontextprotocol.io/docs/getting-started/intro)
 * 🧩 **Architecture Overview:** [https://modelcontextprotocol.io/docs/learn/architecture](https://modelcontextprotocol.io/docs/learn/architecture)
 * ⚙️ **FastMCP GitHub Repo:** [https://github.com/modelcontextprotocol/fastmcp](https://github.com/modelcontextprotocol/fastmcp)
