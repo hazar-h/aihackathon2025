@@ -75,6 +75,10 @@ They typically involve several key layers:
 
 Together, they form the **intelligent orchestration backbone** of your AI system.
 
+Comparison of Langchain Over Regular OpenAI Calls 
+[examples](content/langchain-examples.md)
+
+
 ---
 
 ### Integrating with n8n
