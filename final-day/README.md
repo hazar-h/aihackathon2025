@@ -33,4 +33,8 @@ For Node use
 - [NVM](https://github.com/nvm-sh/nvm) For managing mulitple node environments
 
 
+## Sample Project 
+https://github.com/richiejeremiah/doclittle-platform
 
+## Sample Presentation 
+https://storage.googleapis.com/lablab-static-eu/presentations/submissions/f5mi466hq6v0wn7r15lwv39n/f5mi466hq6v0wn7r15lwv39n-1762641762630_w25lrjrxpvwtdmx6ka3s8nvd.pdf
