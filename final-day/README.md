@@ -21,7 +21,7 @@ We strongly reccomended Fast API with LangChain, here are some boilerplates.
 
 ## Vector DB
 - PGVector ^ ( Most Practical ) ( Reccomended if you're already using postgres )
-- QDrant ( Production Ready and High Performance) (Requires Docker or QDrant Installation)
+- QDrant ( Production Ready and High Performance) (Requires Docker for QDrant Installation)
 - ChromaDB (Easy to Setup no installation required)
 - Faiss  ( For high performance on complex data ) ( No Installation Required)
 
