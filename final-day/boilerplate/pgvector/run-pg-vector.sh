@@ -1,0 +1,1 @@
+docker run -d -v ./pgdata:/var/lib/postgresql/data -v ./schema.sql:/docker-entrypoint-initdb.d/schema.sql -e POSTGRES_PASSWORD=test -p 5432:5432 pgvector/pgvector:pg17
